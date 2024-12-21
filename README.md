@@ -18,10 +18,10 @@
 
 | 이름          | 역할           | GitHub Profile                                   |
 |---------------|----------------|-------------------------------------------------|
-| 신우찬       | 팀장 / 백엔드  | [@kimcheolsu](https://github.com/kimcheolsu)   |
-| 정채건       | 아두이노 하드웨어     | [@leeyounghee](https://github.com/leeyounghee) |
-| 조서호       | 3d프린터       | [@parkminji](https://github.com/parkminji)     |
-| 노경윤       | 알고리즘  | [@jungsuhyeon](https://github.com/jungsuhyeon) |
+| 신우찬       | 팀장 / 백엔드  | [@Woochan0510](https://github.com/Woochan0510)   |
+| 정채건       | 아두이노 하드웨어     | [@jcg0615](https://github.com/jcg0615) |
+| 조서호       | 3d프린터       | [@Domilove](https://github.com/Domilove)     |
+| 노경윤       | 프로젝트 소개  | [@shruddbs](https://github.com/shruddbs) |
 
 ---
 
