@@ -43,13 +43,12 @@
 ### 주요 기능:
 - **기능 A**: 카메라(인공위성)으로 바다위 쓰레기 감지.
 - **기능 B**: 쓰레기가 있는 위치로 배가 이동하여 쓰레기 수거.
-- **기능 C**: ???.
 
 ### 기술 스택:
-- **프론트엔드**: React, TypeScript
-- **백엔드**: Node.js, Express
-- **데이터베이스**: MongoDB
-- **배포**: AWS, Docker
+- **프론트엔드**: Python
+- **백엔드**: Null
+- **데이터베이스**: Null
+- **배포**: Null
 
 ![시스템 구조](https://via.placeholder.com/800x400)
 
@@ -60,7 +59,7 @@
 ### 1. 환경 설정
 1. **프로젝트 클론**
    ```bash
-   git clone https://github.com/username/project.git
+   git clone https://github.com/Woochan0510/makerton.git
    cd project
    ```
 
@@ -98,10 +97,8 @@
 
 프로젝트에 대한 문의 사항은 아래로 연락해주세요:
 
-- **이메일**: example@example.com
-- **GitHub Issues**: [링크](https://github.com/username/project/issues)
-- **팀 웹사이트**: [https://team-website.com](https://team-website.com)
-
+- **이메일**: 8621skyblue@naver.com
+- **인스타그램**: https://www.instagram.com/dnckssla/
 ---
 
 감사합니다! 🙌
