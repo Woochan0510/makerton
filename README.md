@@ -46,9 +46,13 @@
 
 ### 사용된 언어와 외장함수:
 - **사물 인식 시스템**: python, gemini API
+  
+![image](https://github.com/user-attachments/assets/0b5e61d1-c11d-4bcc-a779-59afe2cfa291)
 - **배 제작**: 아두이노 IDE
+  
+![image](https://github.com/user-attachments/assets/67307f6b-e1fe-42b4-8864-7bd327ddc320)
 
-![시스템 구조](https://via.placeholder.com/800x400)
+
 
 ---
 
