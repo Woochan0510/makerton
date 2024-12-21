@@ -1,4 +1,4 @@
-# AI-Makerthon 팀 프로젝트 소개
+# 짜파게티 팀 프로젝트 소개
  
 ![프로젝트 로고](https://via.placeholder.com/200)
 
@@ -13,20 +13,20 @@
 
 ## 팀 소개
 
-### 팀 이름: **Dream Developers**
+### 팀 이름: 짜파게티 팀
 
 | 이름          | 역할           | GitHub Profile                                   |
 |---------------|----------------|-------------------------------------------------|
-| 김철수       | 팀장 / 백엔드  | [@kimcheolsu](https://github.com/kimcheolsu)   |
-| 이영희       | 프론트엔드     | [@leeyounghee](https://github.com/leeyounghee) |
-| 박민지       | 디자이너       | [@parkminji](https://github.com/parkminji)     |
-| 정수현       | 데이터 분석가  | [@jungsuhyeon](https://github.com/jungsuhyeon) |
+| 신우찬       | 팀장 / 백엔드  | [@kimcheolsu](https://github.com/kimcheolsu)   |
+| 정채건       | 아두이노 하드웨어     | [@leeyounghee](https://github.com/leeyounghee) |
+| 조서호       | 3d프린터       | [@parkminji](https://github.com/parkminji)     |
+| 노경윤       | 알고리즘  | [@jungsuhyeon](https://github.com/jungsuhyeon) |
 
 ---
 
 ## 프로젝트 개발 이유
 
-현대 사회에서 [특정 문제점]을 해결하기 위해 이 프로젝트를 기획하게 되었습니다. 
+해양 쓰레기로 인해 해양 생태계 파괴와 지구 오염의 방책을 알리기위해. 
 
 ### 주요 동기:
 1. **문제 정의**: 기존 시스템의 불편함 또는 공백.
@@ -37,7 +37,7 @@
 
 ## 프로젝트 개요
 
-### 프로젝트 이름: **Awesome Project**
+### 프로젝트 이름: **marine collecting garvage robot**
 
 ### 주요 기능:
 - **기능 A**: 사용자가 쉽게 데이터를 입력 및 분석 가능.
