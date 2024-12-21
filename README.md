@@ -1,6 +1,6 @@
 # 짜파게티 팀 프로젝트 소개
  
-![프로젝트 로고](https://via.placeholder.com/200)
+![프로젝트 로고](https://www.google.com/imgres?q=%EC%A7%9C%ED%8C%8C%EA%B2%8C%ED%8B%B0&imgurl=https%3A%2F%2Fi.namu.wiki%2Fi%2FvPRJ7-npvg6YnMOxk0IKiXGStg6As6_e13TmVrhdEhG7bOLamBQCBBTZt6rGGmXoVY6FPDKHcRWYE4R8sqVtug.webp&imgrefurl=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%25A7%259C%25ED%258C%258C%25EA%25B2%258C%25ED%258B%25B0&docid=IhSVE7i-nDyShM&tbnid=_EI3a2AEoXALXM&vet=12ahUKEwjZsZPwi7iKAxUCsVYBHfj9KYYQM3oECFUQAA..i&w=434&h=434&hcb=2&ved=2ahUKEwjZsZPwi7iKAxUCsVYBHfj9KYYQM3oECFUQAA/200)
 
 ## 목차
 - [팀 소개](#팀-소개)
