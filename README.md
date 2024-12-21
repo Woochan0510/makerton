@@ -1,6 +1,6 @@
 # 짜파게티 팀 프로젝트 소개
  
-[프로젝트 로고][<img width="113" alt="image" src="https://github.com/user-attachments/assets/142be60b-617a-417e-a2af-20b4b3b0d1e7" />](https://i.namu.wiki/i/nC4HhrjA1ittihqnFsaEN4rddpNYsNRZDKIY88OZS8W8ClFH5RVmYhIqGP5zpCUIKeWOYtPuOrRWJRG83OgYv4rF3RccKwvdr8WKt_GWC690J2N5-kQotfij2BJikMafnNtazrfdWnUlzda4Quk5kg.webp)
+[<img width="200" alt="image" src="https://github.com/user-attachments/assets/142be60b-617a-417e-a2af-20b4b3b0d1e7" />](https://i.namu.wiki/i/nC4HhrjA1ittihqnFsaEN4rddpNYsNRZDKIY88OZS8W8ClFH5RVmYhIqGP5zpCUIKeWOYtPuOrRWJRG83OgYv4rF3RccKwvdr8WKt_GWC690J2N5-kQotfij2BJikMafnNtazrfdWnUlzda4Quk5kg.webp)
 
 
 ## 목차
