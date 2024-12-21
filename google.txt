@@ -1,0 +1,12 @@
+pip install google-generativeai
+python -m pip install --upgrade pip
+pip install playsound==1.2.2 
+pip install pyttsx3
+pip install  gTTS
+pip install edge-tts
+pip install sounddevice scipy
+pip install opencv-python
+
+
+
+
