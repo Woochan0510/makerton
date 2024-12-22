@@ -30,9 +30,8 @@
 해양 쓰레기로 인해 해양 생태계 파괴와 지구 오염의 심각성 알리기위해. 
 
  **해양 쓰레기 사진**
- ![image](<img width="572" alt="화면 캡처 2024-12-22 101046" src="https://github.com/user-attachments/assets/c0e954f4-02b6-40ba-9f42-8a17689fa178" />
-
-)
+ 
+ (<img width="572" alt="화면 캡처 2024-12-22 101046" src="https://github.com/user-attachments/assets/c0e954f4-02b6-40ba-9f42-8a17689fa178" />)
 
 ### 주요 동기:
 1. **문제 정의**: 기존 시스템의 불편함 또는 공백.
