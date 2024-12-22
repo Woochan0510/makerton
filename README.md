@@ -28,7 +28,7 @@
 
 ## 프로젝트 개발 이유
 
-<img width = "572" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.korbaea.com%2Fnews%2FarticleView.html%3Fidxno%3D695&psig=AOvVaw1ovVTsyPUFjQ7Nno3IpEgJ&ust=1734933877086000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjTtb_auooDFQAAAAAdAAAAABAE"/>
+<img width = "572" alt = "img" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.korbaea.com%2Fnews%2FarticleView.html%3Fidxno%3D695&psig=AOvVaw1ovVTsyPUFjQ7Nno3IpEgJ&ust=1734933877086000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjTtb_auooDFQAAAAAdAAAAABAE"/>
 저희 팀은 우연히 태평양에 구성되어 점점 커져가는 쓰레기 섬의 존재를 알게 되었고, 이에 해양 쓰레기 문제의 심각성을 깨닫게 되었습니다.
 이에 해양쓰레기의 수를 줄이고자 이러한 프로젝트를 기획하고 개발하게 되었습니다.
 
