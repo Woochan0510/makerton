@@ -94,7 +94,9 @@
    ```
 
 ### 3. 시연 영상
-   [시행 영상 업로드]
+   
+ https://github.com/user-attachments/assets/7cb78dc2-f80b-4a22-b4c5-58d129b39d2f
+
 
 ---
 
