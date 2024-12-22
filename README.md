@@ -43,7 +43,7 @@
 
 ## 프로젝트 개요
 
-### 프로젝트 이름: **marine collecting garvage ship**
+### 프로젝트 이름: **marine garvage collection boat**
 
 ### 주요 기능:
 - **쓰레기 감지기능**: 카메라(인공위성)으로 바다위 쓰레기 감지하고 거리파악.
