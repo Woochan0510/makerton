@@ -62,7 +62,7 @@
 ![image](https://github.com/user-attachments/assets/67307f6b-e1fe-42b4-8864-7bd327ddc320)
 
 - **3D 프린트 모델링**
-- 
+  
 ![KakaoTalk_20241222_151655965](https://github.com/user-attachments/assets/c035f795-080a-483f-bf0f-6dfab7045b9e)
 
 
