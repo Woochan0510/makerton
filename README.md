@@ -106,7 +106,7 @@
 
 ### 3. 시연 영상
    
- [https://github.com/user-attachments/assets/7cb78dc2-f80b-4a22-b4c5-58d129b39d2f](https://www.youtube.com/shorts/1pPS6K6tBJM)
+ [[https://github.com/user-attachments/assets/7cb78dc2-f80b-4a22-b4c5-58d129b39d2f](https://www.youtube.com/shorts/1pPS6K6tBJM)](https://youtu.be/lzXruSG9r6k)
 
 
 ---
